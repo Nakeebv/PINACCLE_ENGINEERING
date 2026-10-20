@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 160">
+  <defs>
+    <linearGradient id="favSilver" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F2F6F9"/>
+      <stop offset="0.45" stop-color="#AEB9C4"/>
+      <stop offset="0.52" stop-color="#E7EDF2"/>
+      <stop offset="1" stop-color="#5E6C79"/>
+    </linearGradient>
+    <linearGradient id="favBlue" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5FB4FF"/>
+      <stop offset="1" stop-color="#1666C2"/>
+    </linearGradient>
+  </defs>
+  <rect width="200" height="160" fill="#06080A"/>
+  <path fill="url(#favSilver)" d="M100 8 L172 106 L150 106 L100 34 L50 106 L28 106 Z"/>
+  <path fill="url(#favBlue)" d="M100 44 L128 80 L116 80 L100 58 L84 80 L72 80 Z"/>
+  <path fill="url(#favSilver)" d="M92 58 H134 L149 71 L134 84 H92 Q82 84 82 71 Q82 58 92 58 Z M99 66 H129 L137 71 L129 76 H99 Q93 76 93 71 Q93 66 99 66 Z" fill-rule="evenodd"/>
+  <path fill="url(#favSilver)" d="M72 122 L82 60 H94 L84 122 Z"/>
+  <path fill="url(#favBlue)" d="M6 127 L50 88 L72 88 L34 108 L26 127 Z"/>
+  <path fill="url(#favBlue)" d="M194 127 L150 88 L128 88 L166 108 L174 127 Z"/>
+</svg>
